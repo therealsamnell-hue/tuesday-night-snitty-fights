@@ -38,8 +38,13 @@ jobs:
           mkdir -p content/player-wiki
           rsync -a --delete "player-content/8. Player Wiki/" content/player-wiki/
 
-      - name: Build Quartz
-        run: npx quartz build
+            - name: Build Quartz
+        run: |
+          npx quartz build
+          echo "=== Generated test-note files ==="
+          find public -iname '*test*note*' -print
+          echo "=== Generated player-wiki files ==="
+          find public/player-wiki -maxdepth 3 -type f -print 2>/dev/null || true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
