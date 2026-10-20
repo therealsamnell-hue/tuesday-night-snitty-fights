@@ -38,7 +38,7 @@ jobs:
           mkdir -p content/player-wiki
           rsync -a --delete "player-content/8. Player Wiki/" content/player-wiki/
 
-            - name: Build Quartz
+      - name: Build Quartz
         run: |
           npx quartz build
           echo "=== Generated test-note files ==="
