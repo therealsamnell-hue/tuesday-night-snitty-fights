@@ -31,6 +31,12 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+     
+      - name: Copy player-facing notes into Quartz content
+        run: |
+          test -d "player-content/8. Player Wiki"
+          mkdir -p content/player-wiki
+          rsync -a --delete "player-content/8. Player Wiki/" content/player-wiki/
 
       - name: Build Quartz
         run: npx quartz build
