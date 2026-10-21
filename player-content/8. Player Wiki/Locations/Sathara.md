@@ -84,36 +84,58 @@ Notable places to stay, eat, drink, hear news, and meet other travelers.
 - [[The Hagfish]]: Very popular low class tavern and gambling venue
 - [[The Rusty Dragon]]: Sathara's oldest inn, known by the large iron dragon decoration on its rooftop. The inn serves Nimbralese cuisine otherwise nigh-unknown. Auvendra Kaskar, is a former adventurer estranged from her family. Auvendra works to make her place friendly to people of her former profession, but declines to answer questions about her time abroad and why it ended.
 - [[The Broken Oar]] Sathara's roughest, dirtiest tavern.
-    
 
 ### Temples and Shrines
 
-- [[The Hall of Bright Coin]]: newly rebuilt temple to Waukeen, with shrines to Chauntea, Helm, Lathander, Savras, and Sune.
+- [[The Hall of Bright Coin]]: newly rebuilt temple to Waukeen, with shrines to Chauntea, Helm, Lathander, Savras, and Sune. Also provides safe storage of coin and valuables, as well as messenger service to other settlements.
 
 ### Shops and Services
 
-Notable merchants, craftsmen, specialists, and other services available to residents and visitors.
-
-- **[[Business Name]]:** Description.
-    
+- **[[The Brass Octant]]:** Seller of maps. Veznutt Parvin, proprietor
+- [[The Lapis Garden]]: Jeweler
+- **[[Bijan Qazvin]]:** Sage, student of history interested in the Sea Light and other strange ruins. Lover of cats
+- [[Sorndarr's Safeholding]]: Locksmith and secure storage.
+- [[Savah's Blades]]: Seller of arms and armor.
+- [[Red Anvil Smithing]]: blacksmith. 
+- [[The Mithril Alembic]]: seller of cheap herbal and alchemical remedies
+- [[The Golden Drop]]: high-class alchemist
+- [[The House of Blue Stones]]: Small monastery with attached, private library.
+- [[Sathara Glassworks]]
+- [[Avertin Delicacies]]: Baker
+- [[The House of the Ninth Leaf]]: Bookseller and informal gathering place.
+- [[Sathara Ostentorium]]: Playhouse and festhall.
+- [[The Cedar Works]]: lumber mill
+- [[Vinder's Emporium]]: Sundries
+- [[The House of the First Lamp]]: Orphanage and school
+- [[Sagess Mvashti's]]: Elderly, blind mystic
+- [[The Green Caravanserai]]: food market
+- [[Vernah's Drapery]]: clothier
+- [[Ishivin's Wagonworks]]: wainwright
+- [[Saravani Mill]]: grain mill
+- [[The Blue Net]]: fishmarket
+- [[Sathara Market]]: twice-weekly open-air market supplied from the outlying farms
+- [[Red Salt Meats & Butchery]]
+- [[Trampled Goblin Stables]]: livery stable
+- [[Ten Coins Winery]]
+- [[The Saffon Compact]]: headquarters of the mercantile consortium of the same name. Also serves as a place to book passage on a ship, arrange caravans or carriages for overland travel, dispatch messages to other settlements, and recorder of properties for the area around Sathara.
+- [[The Lady's Bounty]]: upscale sundry store
+- [[The Tressym's Call]]: pleasure house
+- [[Vorvashali's Curiosities]]: trader in enchanted items and other adventuring supplies. Does not traffic in weapons or armor.
+- [[Hespera's]]: midwife
+- [[Sathara Shipworks]]
 
 ### Landmarks and Other Sites
 
 Monuments, civic buildings, fortifications, ruins, public spaces, and other distinctive locations.
 
-- **[[Location Name]]:** Description.
-    
+- [[The Quiet Exchange]]: Sathara's graveyard
+- **[[Sathara Garrison]]**
+- [[Stharan Diwan]]: local administration
+- [[Oligarch's Hill]]:  Manses of the founding families
+- [[The Drop]]: public dumping ground
+- [[The Cleaver's Isle]]: tidal island
+- [[The Sea Light]]: ruined tower of uncertain age and provenance
 
-## Culture and Daily Life
-
-Local customs, festivals, cuisine, dress, social expectations, entertainment, and other details that define everyday life.
-
-## Rumors and Discoveries
-
-Information the party has gathered about the settlement, including rumors heard, local stories, and discoveries made during play.
-
--   
-    
 
 ## References
 
