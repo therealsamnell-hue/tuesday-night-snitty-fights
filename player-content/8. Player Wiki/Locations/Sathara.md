@@ -72,7 +72,7 @@ A slim majority of Satharans principally revere Waukeen, with the Merchant's Fri
 
 Hightown, resting on a low rise overlooking the city, is home to Sathara's affluent and most of its newer construction. Lowtown is closer to sea level, with flooding occasionally reaching several streets inland. Denser and older, Lowtown houses most of the town's commercial activity and government buildings.
 
-The oligarch families separate themselves even from Hightown, maintaining manses on a hill opposite Sathara's harbor. They long secured legal title to all the lands nearby to preserve their exclusivity. 
+The oligarch families separate themselves even from Hightown, maintaining manses on a hill opposite Sathara's harbor. They long ago secured legal title to all the lands nearby to preserve their exclusivity. 
 
 ### Inns and Taverns
 
@@ -82,7 +82,7 @@ Notable places to stay, eat, drink, hear news, and meet other travelers.
 - [[Risa's Chalice]]: Tavern popular mainly with locals
 - [[The Broken Lute]]: Tavern popular with patrons of and performers at at the nearby Ostentorium
 - [[The Hagfish]]: Very popular low class tavern and gambling venue
-- [[The Rusty Dragon]]: Sathara's oldest inn, known by the large iron dragon decoration on its rooftop. The inn serves Nimbralese cuisine otherwise nigh-unknown. Auvendra Kaskar, is a former adventurer estranged from her family. Auvendra works to make her place friendly to people of her former profession, but declines to answer questions about her time abroad and why it ended.
+- [[The Rusty Dragon]]: Sathara's oldest inn, known by the large iron dragon decoration on its rooftop. The inn serves Nimbralese cuisine otherwise nigh-unknown in Tashalar. Auvendra Kaskar, is a former adventurer estranged from her family. Auvendra works to make her place friendly to people of her former profession, but declines to answer questions about her time abroad and why it ended.
 - [[The Broken Oar]] Sathara's roughest, dirtiest tavern.
 
 ### Temples and Shrines
