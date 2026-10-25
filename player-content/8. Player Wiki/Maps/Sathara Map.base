@@ -9,3 +9,4 @@ views:
     defaultZoom: -1
     minZoom: -13
     height: 800
+    unit: px
