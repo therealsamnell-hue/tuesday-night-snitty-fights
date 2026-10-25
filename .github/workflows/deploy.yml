@@ -63,6 +63,13 @@ jobs:
           mkdir -p content/z_Images
           cp "site-assets/z_Images/Sathara Fixed With Scale.png" \
              "content/z_Images/Sathara Fixed With Scale.png"
+             
+      - name: Patch Leaflet map validation
+        run: |
+          FILE=".quartz/plugins/quartz-leaflet-bases-plugin/src/scripts/leaflet-map.inline.ts"
+          test -f "$FILE"
+          grep -Fq '!dataset["unit"]' "$FILE"
+          sed -i '/!dataset\["unit"\]/d' "$FILE"
 
       - name: Build Quartz
         run: |
