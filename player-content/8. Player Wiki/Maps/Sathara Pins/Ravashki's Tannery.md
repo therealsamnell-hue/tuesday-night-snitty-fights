@@ -1,5 +1,6 @@
 ---
 title: Ravashki's Tannery
+publish: true
 tags:
   - sathara
   - location

@@ -1,5 +1,6 @@
 ---
 title: Carpenter's Guildhall
+publish: true
 tags:
   - sathara
   - location

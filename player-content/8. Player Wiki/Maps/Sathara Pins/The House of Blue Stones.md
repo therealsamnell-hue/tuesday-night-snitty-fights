@@ -1,5 +1,6 @@
 ---
 title: The House of Blue Stones
+publish: true
 tags:
   - sathara
   - location

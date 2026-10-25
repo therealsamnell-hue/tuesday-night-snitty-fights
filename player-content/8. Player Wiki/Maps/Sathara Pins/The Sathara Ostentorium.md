@@ -1,5 +1,6 @@
 ---
 title: The Sathara Ostentorium
+publish: true
 tags:
   - sathara
   - location

@@ -1,5 +1,6 @@
 ---
 title: Savah's Blades
+publish: true
 tags:
   - sathara
   - location

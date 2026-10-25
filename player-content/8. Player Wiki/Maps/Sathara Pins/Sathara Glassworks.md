@@ -1,5 +1,6 @@
 ---
 title: Sathara Glassworks
+publish: true
 tags:
   - sathara
   - location

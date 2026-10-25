@@ -1,5 +1,6 @@
 ---
 title: Sathara Diwan
+publish: true
 tags:
   - sathara
   - location

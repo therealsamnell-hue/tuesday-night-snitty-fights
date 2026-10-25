@@ -1,5 +1,6 @@
 ---
 title: The House of the First Lamp
+publish: true
 tags:
   - sathara
   - location

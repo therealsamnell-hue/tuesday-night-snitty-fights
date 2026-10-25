@@ -1,5 +1,6 @@
 ---
 title: Red Anvil Smithing
+publish: true
 tags:
   - sathara
   - location

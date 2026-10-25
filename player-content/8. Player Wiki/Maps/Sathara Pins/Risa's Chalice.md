@@ -1,5 +1,6 @@
 ---
 title: Risa's Chalice
+publish: true
 tags:
   - sathara
   - location

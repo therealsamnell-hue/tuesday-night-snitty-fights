@@ -1,5 +1,6 @@
 ---
 title: The House of the Ninth Leaf
+publish: true
 tags:
   - sathara
   - location

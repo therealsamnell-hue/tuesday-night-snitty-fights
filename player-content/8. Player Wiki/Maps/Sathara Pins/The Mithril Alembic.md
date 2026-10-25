@@ -1,5 +1,6 @@
 ---
 title: The Mithril Alembic
+publish: true
 tags:
   - sathara
   - location

@@ -1,5 +1,6 @@
 ---
 title: Avertin Delicacies
+publish: true
 tags:
   - sathara
   - location

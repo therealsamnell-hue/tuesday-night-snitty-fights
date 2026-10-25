@@ -1,5 +1,6 @@
 ---
 title: The Golden Drop
+publish: true
 tags:
   - sathara
   - location

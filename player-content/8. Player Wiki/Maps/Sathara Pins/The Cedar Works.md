@@ -1,5 +1,6 @@
 ---
 title: The Cedar Works
+publish: true
 tags:
   - sathara
   - location

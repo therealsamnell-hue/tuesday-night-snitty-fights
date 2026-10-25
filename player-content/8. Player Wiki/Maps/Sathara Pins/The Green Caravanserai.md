@@ -1,5 +1,6 @@
 ---
 title: The Green Caravanserai
+publish: true
 tags:
   - sathara
   - location

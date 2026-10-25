@@ -1,5 +1,6 @@
 ---
 title: Sagess Mvashti's
+publish: true
 tags:
   - sathara
   - location

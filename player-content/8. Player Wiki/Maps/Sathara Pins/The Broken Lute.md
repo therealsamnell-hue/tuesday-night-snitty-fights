@@ -1,5 +1,6 @@
 ---
 title: The Broken Lute
+publish: true
 tags:
   - sathara
   - location

@@ -1,5 +1,6 @@
 ---
 title: Sathara Garrison
+publish: true
 tags:
   - sathara
   - location

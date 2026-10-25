@@ -1,5 +1,6 @@
 ---
 title: Vinder's Emporium
+publish: true
 tags:
   - sathara
   - location

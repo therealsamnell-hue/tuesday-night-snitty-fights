@@ -1,5 +1,6 @@
 ---
 title: Vernah's Drapery
+publish: true
 tags:
   - sathara
   - location
