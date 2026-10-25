@@ -3,7 +3,7 @@ views:
     name: View
     image: z_Images/Sathara Fixed With Scale.png
     mapName: sathara
-    defaultZoom: -1
+    defaultZoom: 0
     minZoom: -13
     height: 800
     unit: px
