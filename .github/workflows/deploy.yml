@@ -31,7 +31,7 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-     
+
       - name: Copy player-facing notes into Quartz content
         shell: bash
         run: |
@@ -58,9 +58,17 @@ jobs:
             rsync -a "$STAGING/z_Images/" content/z_Images/
           fi
 
+      - name: Copy map background asset
+        run: |
+          mkdir -p content/z_Images
+          cp "site-assets/z_Images/Sathara Fixed With Scale.png" \
+             "content/z_Images/Sathara Fixed With Scale.png"
+
       - name: Build Quartz
         run: |
           npx quartz build
+          echo "=== Sathara map image in build output ==="
+          find public -iname '*sathara*' -print
           echo "=== Generated test-note files ==="
           find public -iname '*test*note*' -print
           echo "=== Generated player-wiki files ==="
