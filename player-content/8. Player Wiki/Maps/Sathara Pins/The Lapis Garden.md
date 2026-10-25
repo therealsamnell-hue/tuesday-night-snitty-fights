@@ -1,5 +1,6 @@
 ---
 title: The Lapis Garden
+publish: true
 tags:
   - sathara
   - location

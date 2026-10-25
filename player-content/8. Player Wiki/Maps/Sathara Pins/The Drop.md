@@ -1,5 +1,6 @@
 ---
 title: The Drop
+publish: true
 tags:
   - sathara
   - location

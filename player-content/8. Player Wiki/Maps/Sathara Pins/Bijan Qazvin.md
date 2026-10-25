@@ -1,5 +1,6 @@
 ---
 title: Biljan Qazvin
+publish: true
 tags:
   - sathara
   - location

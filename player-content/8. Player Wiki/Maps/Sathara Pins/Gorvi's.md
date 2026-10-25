@@ -1,5 +1,6 @@
 ---
 title: Gorvi's
+publish: true
 tags:
   - sathara
   - location

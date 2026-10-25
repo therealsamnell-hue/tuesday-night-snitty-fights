@@ -1,5 +1,6 @@
 ---
 title: The Brass Octant
+publish: true
 tags:
   - sathara
   - location

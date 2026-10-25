@@ -1,5 +1,6 @@
 ---
 title: Sorndarr's Safeholding
+publish: true
 tags:
   - sathara
   - location

@@ -1,5 +1,6 @@
 ---
 title: The White Peacock
+publish: true
 tags:
   - sathara
   - location

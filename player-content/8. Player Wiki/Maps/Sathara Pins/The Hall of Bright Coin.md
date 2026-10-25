@@ -1,5 +1,6 @@
 ---
 title: The Hall of Bright Coin
+publish: true
 tags:
   - sathara
   - location

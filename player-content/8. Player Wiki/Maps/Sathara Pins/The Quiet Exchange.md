@@ -1,5 +1,6 @@
 ---
 title: The Quiet Exchange
+publish: true
 tags:
   - sathara
   - location
