@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/7. Gorvi's.png]]"
 marker:
-  - coordinates: 1124, 406
+  - colour: "#039c4b"
+    coordinates: 1124, 406
     mapName: sathara
 ---
 

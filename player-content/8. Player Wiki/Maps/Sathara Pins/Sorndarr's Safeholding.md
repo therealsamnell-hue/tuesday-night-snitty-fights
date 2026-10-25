@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/9. Sorndarr's Safeholding.png]]"
 marker:
-  - coordinates: 918, 252
+  - colour: "#039c4b"
+    coordinates: 918, 252
     mapName: sathara
 ---
 

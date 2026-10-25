@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[8. Bijan Qazvin.png]]"
 marker:
-  - coordinates: 982, 196
+  - colour: "#039c4b"
+    coordinates: 990, 188
     mapName: sathara
 ---
 

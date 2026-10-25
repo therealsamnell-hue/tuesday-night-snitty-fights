@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/6. The Drop.png]]"
 marker:
-  - coordinates: 1130, 340
+  - colour: "#039c4b"
+    coordinates: 1130, 340
     mapName: sathara
 ---
 

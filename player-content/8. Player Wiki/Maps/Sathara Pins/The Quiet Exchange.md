@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/2. The Quiet Exchange.png]]"
 marker:
-  - coordinates: 1073, 813
+  - colour: "#039c4b"
+    coordinates: 1073, 813
     mapName: sathara
 ---
 

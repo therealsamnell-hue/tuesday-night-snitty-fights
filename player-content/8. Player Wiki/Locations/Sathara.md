@@ -106,7 +106,7 @@ Notable places to stay, eat, drink, hear news, and meet other travelers.
 - [[Sathara Glassworks]]
 - [[Avertin Delicacies]]: Baker
 - [[The House of the Ninth Leaf]]: Bookseller and informal gathering place.
-- [[Sathara Ostentorium]]: Playhouse and festhall.
+- [[The Sathara Ostentorium]]: Playhouse and festhall.
 - [[The Cedar Works]]: lumber mill
 - [[Vinder's Emporium]]: Sundries
 - [[The House of the First Lamp]]: Orphanage and school
@@ -133,7 +133,7 @@ Monuments, civic buildings, fortifications, ruins, public spaces, and other dist
 
 - [[The Quiet Exchange]]: Sathara's graveyard
 - **[[Sathara Garrison]]**
-- [[Stharan Diwan]]: local administration
+- [[Sathara Diwan]]: local administration
 - [[Oligarch's Hill]]:  Manses of the founding families
 - [[The Drop]]: public dumping ground
 - [[The Cleaver's Isle]]: tidal island

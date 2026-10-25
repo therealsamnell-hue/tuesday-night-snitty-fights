@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/4. The Brass Octant.png]]"
 marker:
-  - coordinates: 1326, 572
+  - colour: "#039c4b"
+    coordinates: 1326, 572
     mapName: sathara
 ---
 

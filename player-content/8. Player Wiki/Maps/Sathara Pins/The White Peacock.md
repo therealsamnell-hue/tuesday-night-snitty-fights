@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/3. The White Peacock.png]]"
 marker:
-  - coordinates: 1330, 646
+  - colour: "#039c4b"
+    coordinates: 1330, 646
     mapName: sathara
 ---
 

@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/5. The Lapis Garden.png]]"
 marker:
-  - coordinates: 1198, 578
+  - colour: "#039c4b"
+    coordinates: 1198, 578
     mapName: sathara
 ---
 

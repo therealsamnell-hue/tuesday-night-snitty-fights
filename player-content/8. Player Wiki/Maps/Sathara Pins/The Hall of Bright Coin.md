@@ -7,7 +7,8 @@ tags:
   - point-of-interest
 thumbnail: "[[z_Images/Sathara Map Thumbs/1. The Hall of Bright Coin.png]]"
 marker:
-  - coordinates: 1078, 686
+  - colour: "#039c4b"
+    coordinates: 1078, 686
     mapName: sathara
 ---
 
