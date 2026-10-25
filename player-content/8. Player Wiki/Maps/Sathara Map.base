@@ -1,9 +1,6 @@
 views:
   - type: leaflet-map
     name: View
-    filters:
-      and:
-        - file.name == "The Hall of Bright Coin"
     image: z_Images/Sathara Fixed With Scale.png
     mapName: sathara
     defaultZoom: -1
