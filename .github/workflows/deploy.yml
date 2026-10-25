@@ -68,8 +68,7 @@ jobs:
         run: |
           FILE=".quartz/plugins/quartz-leaflet-bases-plugin/src/scripts/leaflet-map.inline.ts"
           test -f "$FILE"
-          sed -i '/dataset\["unit"\]/d' "$FILE"
-          ! grep -Fq 'dataset["unit"]' "$FILE"
+          sed -i '/!dataset\["unit"\]/d' "$FILE"
 
       - name: Build Quartz
         run: |
