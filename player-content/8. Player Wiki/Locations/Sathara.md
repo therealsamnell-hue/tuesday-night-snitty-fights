@@ -26,6 +26,8 @@ created: 2026-10-21
 > **Primary Industries:**  Lumber, viticulture, light shipbuilding, glassmaking
 > **Notable Exports:** Wine, Glassworks
 
+See Also: [[Sathara Map.base|A Map of Sathara]]
+
 ## Overview
 
 Sathara is a small port town which, having the only good harbor for a significant span of the coastline, serves as the local commercial hub to the local farmlands.
@@ -87,12 +89,13 @@ Notable places to stay, eat, drink, hear news, and meet other travelers.
 
 ### Temples and Shrines
 
-- [[The Hall of Bright Coin]]: newly rebuilt temple to Waukeen, with shrines to Chauntea, Helm, Lathander, Savras, and Sune. Also provides safe storage of coin and valuables, as well as messenger service to other settlements.
+- [[The Hall of Bright Coin|The Hall of Bright Coin]]: newly rebuilt temple to Waukeen, with shrines to Chauntea, Helm, Lathander, Savras, and Sune. Also provides safe storage of coin and valuables, as well as messenger service to other settlements.
 
 ### Shops and Services
 
 - **[[The Brass Octant]]:** Seller of maps. Veznutt Parvin, proprietor
 - [[The Lapis Garden]]: Jeweler
+- [[Gorvi's]]: Dungsweeper
 - **[[Bijan Qazvin]]:** Sage, student of history interested in the Sea Light and other strange ruins. Lover of cats
 - [[Sorndarr's Safeholding]]: Locksmith and secure storage.
 - [[Savah's Blades]]: Seller of arms and armor.

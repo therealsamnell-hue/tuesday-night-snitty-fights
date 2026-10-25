@@ -1,0 +1,11 @@
+views:
+  - type: leaflet-map
+    name: View
+    filters:
+      and:
+        - file.folder == "8. Player Wiki/Maps/Sathara Pins"
+    image: z_Images/Sathara Fixed With Scale.png
+    mapName: sathara
+    defaultZoom: -1
+    minZoom: -13
+    height: 800
