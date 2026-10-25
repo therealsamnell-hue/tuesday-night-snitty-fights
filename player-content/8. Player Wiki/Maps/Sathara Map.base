@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "8. Player Wiki/Maps/Sathara Pins"
+        - '!marker.filter(value.mapName == "sathara").isEmpty()'
     image: z_Images/Sathara Fixed With Scale.png
     mapName: sathara
     defaultZoom: -1
