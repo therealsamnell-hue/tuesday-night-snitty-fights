@@ -50,19 +50,19 @@ Thanadar Daryush commands eleven full-time guards to preserve public order. In t
 
 ## People of Note
 
-- **[[Auvendra Kaskar]]:** Retired adventurer and proprietor of the Rusty Dragon.
-- **[[Shalelu Androsana]]:** Local ranger and scout
-- **[[Bijan Qazvin]]:** Sage
-- [[Sagess Mvasti]]: Elderly mystic
+- **Auvendra Kaskar:** Retired adventurer and proprietor of the Rusty Dragon.
+- **Shalelu Androsana:** Local ranger and scout
+- **Bijan Qazvin:** Sage
+- **Sagess Mvasti:** Elderly mystic
 
 ## Organizations and Factions
 
-- **[[Carpenter's Guild]]:** Tradesperson organization, rivals of the Shipworks
-- [[The Saffron Compact]]: Mercantile league originally founded by the Oligarchs, now a largely independent.
-- [[House Vasharan]]: Oligarch family who own of the Shipworks.
-- [[House Saravani]]: Very conservative oligarch family who control of the lumber industry and related sawmills.
-- [[House Kaskar]]: Nimbralese oligarch family who own the Glassworks. 
-- [[House Deyarin]]: Oligarch family who traditionally supply Sathara's Firsts.
+- **Carpenter's Guild:** Tradesperson organization, rivals of the Shipworks
+- **The Saffron Compact**: Mercantile league originally founded by the Oligarchs, now a largely independent.
+- **House Vasharan**: Oligarch family who own of the Shipworks.
+- **House Saravani**: Very conservative oligarch family who control of the lumber industry and related sawmills.
+- **House Kaskar:** Nimbralese oligarch family who own the Glassworks. 
+- **House Deyarin**: Oligarch family who traditionally supply Sathara's Firsts.
 
 ## Religion
 
@@ -116,15 +116,15 @@ Notable places to stay, eat, drink, hear news, and meet other travelers.
 - [[Ishivin's Wagonworks]]: wainwright
 - [[Saravani Mill]]: grain mill
 - [[The Blue Net]]: fishmarket
-- [[Sathara Market]]: twice-weekly open-air market supplied from the outlying farms
+- [[The Market]]: twice-weekly open-air market supplied from the outlying farms
 - [[Red Salt Meats & Butchery]]
 - [[Trampled Goblin Stables]]: livery stable
 - [[Ten Coins Winery]]
-- [[The Saffon Compact]]: headquarters of the mercantile consortium of the same name. Also serves as a place to book passage on a ship, arrange caravans or carriages for overland travel, dispatch messages to other settlements, and recorder of properties for the area around Sathara.
+- [[The Saffron Compact|The Saffon Compact]]: headquarters of the mercantile consortium of the same name. Also serves as a place to book passage on a ship, arrange caravans or carriages for overland travel, dispatch messages to other settlements, and recorder of properties for the area around Sathara.
 - [[The Lady's Bounty]]: upscale sundry store
 - [[The Tressym's Call]]: pleasure house
 - [[Vorvashali's Curiosities]]: trader in enchanted items and other adventuring supplies. Does not traffic in weapons or armor.
-- [[Hespera's]]: midwife
+- [[Hespara's]]: midwife
 - [[Sathara Shipworks]]
 
 ### Landmarks and Other Sites
@@ -134,7 +134,7 @@ Monuments, civic buildings, fortifications, ruins, public spaces, and other dist
 - [[The Quiet Exchange]]: Sathara's graveyard
 - **[[Sathara Garrison]]**
 - [[Sathara Diwan]]: local administration
-- [[Oligarch's Hill]]:  Manses of the founding families
+- **Oligarch's Hill**:  Manses of the founding families
 - [[The Drop]]: public dumping ground
 - [[The Cleaver's Isle]]: tidal island
 - [[The Sea Light]]: ruined tower of uncertain age and provenance
