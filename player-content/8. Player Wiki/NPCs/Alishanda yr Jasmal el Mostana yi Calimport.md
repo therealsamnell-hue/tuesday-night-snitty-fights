@@ -16,13 +16,25 @@ thumbnail: "z_Images/Alishanda yr Jasmal el Mostana yi Calimport.png"
 
 # Alishanda yr Jasmal el Mostana yi Calimport
 
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div>
+
 ![[Alishanda yr Jasmal el Mostana yi Calimport.png|200]]
 
-> [!infobox]  
-> **Ancestry:**  Calishite
-> **Occupation:**  Diva
-> **Location:**  Sathara Ostentorium
-> **Affiliations:** Sathara Ostentorium
+</div>
+
+<div>
+
+> [!infobox]
+> **Ancestry:** Calishite
+> **Occupation:** Diva
+> **Location:** [[The Sathara Ostentorium]]
+> **Affiliations:** [[The Sathara Ostentorium]]
+
+</div>
+
+</div>
 
 ## Overview
 
