@@ -12,12 +12,12 @@ affiliations:
   - Council of Oligarchs
   - Sathara Guard
 status: active
-thumbnail: z_Images/Thanadar Bahram Daryush.png
+thumbnail: "z_Images/Thanadar Bahram Daryush.png"
 ---
 
 # Thanadar Bahram Daryush
 
-<img src="/tuesday-night-snitty-fights/z_images/Thanadar%20%Bahram%20%Daryush.png" alt="NPC portrait" width="200">
+<img src="/tuesday-night-snitty-fights/z_images/Thanadar%20Bahram%20Daryush.png" alt="NPC portrait" width="200">
 
 > [!infobox]  
 > **Ancestry:**  Tashalan
