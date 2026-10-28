@@ -16,7 +16,7 @@ thumbnail: "z_Images/Alishanda yr Jasmal el Mostana yi Calimport.png"
 
 # Alishanda yr Jasmal el Mostana yi Calimport
 
-<img src="/tuesday-night-snitty-fights/z_images/z_Images/Alishanda%20yr%20Jasmal%20el%20Mostana%20yi%20Calimport.png" alt="NPC portrait" width="200">
+![[Alishanda yr Jasmal el Mostana yi Calimport.png|200]]
 
 > [!infobox]  
 > **Ancestry:**  Calishite
