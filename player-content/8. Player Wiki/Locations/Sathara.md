@@ -42,11 +42,11 @@ Sathara was founded by a consortium of mercantile interests originally based in 
 
 ## Government
 
-The town is governed by the First and Council of Oligarchs. The Council meets infrequently and often informally, leaving the day to day administration to First Deyarin. The First is well-liked by most in Sathara. The Council is a seven-member body in which the four founding families possess hereditary seats. The others are elected by a vote of those who own property of adequate taxed value, or who pay a poll tax of equivalent amount at the time of election. Sathara has almost always elected the sitting Holycoin of Waukeen to one of these seats.
+The town is governed by the First and Council of Oligarchs. The Council meets infrequently and often informally, leaving the day to day administration to [[First Kandara Deyarin]]. The First is well-liked by most in Sathara. The Council is a seven-member body in which the four founding families possess hereditary seats. The others are elected by a vote of those who own property of adequate taxed value, or who pay a poll tax of equivalent amount at the time of election. Sathara has almost always elected the sitting [[Asbar yn Zainab el Waukeen, Holycoin of the Hall of Bright Coin|Holycoin of Waukeen]] to one of these seats.
 
 ## Law and Order
 
-Thanadar Daryush commands eleven full-time guards to preserve public order. In times of crisis, he would also have the command of Sathara's fifty-strong militia.
+[[Thanadar Bahram Daryush]] commands eleven full-time guards to preserve public order. In times of crisis, he would also have the command of Sathara's fifty-strong militia.
 
 ## People of Note
 
