@@ -19,13 +19,25 @@ thumbnail: z_Images/Asbar yn Zainab el Waukeen, Holycoin of the Hall of Bright C
 
 # Asbar yn Zainab el Waukeen, Holycoin of the Hall of Bright Coin
 
-<img src="/tuesday-night-snitty-fights/z_images/Asbar%20yn%20Zainab%20el%20Waukeen,%20Holycoin%20of%20the%20Hall%20of%20Bright%20Coin.png" alt="NPC portrait" width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-> [!infobox]  
-> **Ancestry:**  Tashalan
-> **Occupation:**  Priest of Waukeen
-> **Location:**  Sathara, The Hall of Bright Coin
+<div>
+
+![[Asbar yn Zainab el Waukeen, Holycoin of the Hall of Bright Coin.png|200]]
+
+</div>
+
+<div>
+
+> [!infobox]
+> **Ancestry:** Tashalan
+> **Occupation:** Priest of Waukeen
+> **Location:** Sathara, The Hall of Bright Coin
 > **Affiliations:** Church of Waukeen, The Hall of Bright Coin, Council of Oligarchs
+
+</div>
+
+</div>
 
 ## Overview
 
