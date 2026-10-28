@@ -14,13 +14,25 @@ thumbnail: z_Images/Laris Ravashki.png
 
 # Laris Ravashki
 
-<img src="/tuesday-night-snitty-fights/z_images/Laris%20Ravashki.png" alt="NPC portrait" width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div>
+
+![[Laris Ravashki.png|200]]
+
+</div>
+
+<div>
 
 > [!infobox]  
 > **Ancestry:**  Tashalan
 > **Occupation:**  Tanner
 > **Location:**  Ravashki's Tannery
 > **Affiliations:** Ravashki's Tannery
+
+</div>
+
+</div>
 
 ## Overview
 

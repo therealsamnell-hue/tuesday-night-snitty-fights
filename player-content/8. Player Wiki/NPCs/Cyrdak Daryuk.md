@@ -16,13 +16,25 @@ thumbnail: "z_Images/Cyrdak Daryuk.png"
 
 # Cyrdak Daryuk
 
-<img src="/tuesday-night-snitty-fights/z_images/Cyrdak%20Daryuk.png" alt="NPC portrait" width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div>
+
+![[Cyrdak Daryuk.png|200]]
+
+</div>
+
+<div>
 
 > [!infobox]  
 > **Ancestry:**  Calishite
 > **Occupation:**  Theater owner
 > **Location:**  Sathara, The Sathara Ostentorium
 > **Affiliations:** The Sathara Ostentorium
+
+</div>
+
+</div>
 
 ## Overview
 

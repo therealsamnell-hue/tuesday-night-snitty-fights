@@ -14,15 +14,27 @@ status: active
 thumbnail: "z_Images/First Kandara Deyarin.png"
 ---
 
-# Untitled
+# First Deyarin
 
-<img src="/tuesday-night-snitty-fights/z_images/First%20Kandara%20Deyarin.png" alt="NPC portrait" width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div>
+
+![[First Deyarin.png|200]]
+
+</div>
+
+<div>
 
 > [!infobox]  
 > **Ancestry:**  Calishite
 > **Occupation:**  First Oligarch of Sathara
 > **Location:**  Sathara
 > **Affiliations:** Sathara, Council of Oligarchs
+
+</div>
+
+</div>
 
 ## Overview
 

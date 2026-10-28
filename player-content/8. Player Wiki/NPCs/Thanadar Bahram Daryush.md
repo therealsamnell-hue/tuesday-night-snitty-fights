@@ -17,13 +17,25 @@ thumbnail: "z_Images/Thanadar Bahram Daryush.png"
 
 # Thanadar Bahram Daryush
 
-<img src="/tuesday-night-snitty-fights/z_images/Thanadar%20Bahram%20Daryush.png" alt="NPC portrait" width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div>
+
+![[Thanadar Bahram Daryush.png|200]]
+
+</div>
+
+<div>
 
 > [!infobox]  
 > **Ancestry:**  Tashalan
 > **Occupation:**  Thanadar
 > **Location:**  Sathara
 > **Affiliations:** Sathara, Council of Oligarchs, Sathara Guard
+
+</div>
+
+</div>
 
 ## Overview
 

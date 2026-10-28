@@ -17,13 +17,25 @@ thumbnail: "z_Images/Aseir yn Faruk el Pashar.png"
 
 # Aseir yn Faruk el Pashar
 
-<img src="/tuesday-night-snitty-fights/z_images/Aseir%20yn%20Faruk%20el%20Pashar.png" alt="NPC portrait" width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div>
+
+![[Aseir.png|200]]
+
+</div>
+
+<div>
 
 > [!infobox]  
 > **Ancestry:**  Calishite
 > **Occupation:**  Oligarch
 > **Location:**  Sathara, Magnimar, Pashar Manse
 > **Affiliations:** None
+
+</div>
+
+</div>
 
 ## Overview
 
