@@ -249,7 +249,7 @@ plugins:
     enabled: true
     options: {}
     order: 50
-  - source: "@quartz-community/note-properties"
+  - source: "github:quartz-community/note-properties"
     enabled: true
     options:
       includeAll: false
@@ -258,10 +258,13 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
-      delimiters: ---
+      hidePropertiesView: true
+      delimiters: "---"
       language: yaml
     order: 5
+
+  - source: "github:quartz-community/note-properties"
+    enabled: true
     layout:
       position: beforeBody
       priority: 15
