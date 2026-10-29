@@ -14,8 +14,6 @@ thumbnail: "z_Images/Alishanda yr Jasmal el Mostana yi Calimport.png"
 
 ---
 
-# Alishanda yr Jasmal el Mostana yi Calimport
-
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
 <div>

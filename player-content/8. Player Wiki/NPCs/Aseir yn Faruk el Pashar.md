@@ -15,8 +15,6 @@ status: active
 thumbnail: "z_Images/Aseir yn Faruk el Pashar.png"
 ---
 
-# Aseir yn Faruk el Pashar
-
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
 <div>

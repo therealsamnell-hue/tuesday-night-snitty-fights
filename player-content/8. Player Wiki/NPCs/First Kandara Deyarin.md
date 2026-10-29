@@ -14,8 +14,6 @@ status: active
 thumbnail: "z_Images/First Kandara Deyarin.png"
 ---
 
-# First Deyarin
-
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
 <div>

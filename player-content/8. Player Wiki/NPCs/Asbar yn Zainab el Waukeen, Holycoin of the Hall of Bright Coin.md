@@ -17,8 +17,6 @@ status: active
 thumbnail: z_Images/Asbar yn Zainab el Waukeen, Holycoin of the Hall of Bright Coin.png
 ---
 
-# Asbar yn Zainab el Waukeen, Holycoin of the Hall of Bright Coin
-
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
 <div>

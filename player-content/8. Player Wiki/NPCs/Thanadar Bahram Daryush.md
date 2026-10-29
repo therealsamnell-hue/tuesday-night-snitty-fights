@@ -15,8 +15,6 @@ status: active
 thumbnail: "z_Images/Thanadar Bahram Daryush.png"
 ---
 
-# Thanadar Bahram Daryush
-
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
 <div>
