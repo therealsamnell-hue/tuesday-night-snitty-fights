@@ -53,9 +53,17 @@ async function main() {
     return
   }
 
-  const specs = externalPlugins
-    .map((source: PluginSource) => parsePluginSource(source))
-    .filter((spec) => !spec.npmPackage)
+  // Multiple config entries may reference the same Git plugin for different
+  // purposes (for example, a transformer and a layout component). Install each
+  // Git plugin only once; the installer tracks results by plugin name.
+  const specs = [
+    ...new Map(
+      externalPlugins
+        .map((source: PluginSource) => parsePluginSource(source))
+        .filter((spec) => !spec.npmPackage)
+        .map((spec) => [spec.name, spec] as const),
+    ).values(),
+  ]
 
   const npmSpecs = externalPlugins
     .map((source: PluginSource) => parsePluginSource(source))
