@@ -45,7 +45,7 @@ Originally from Magnimar.
 ## Relationships
 
 - **Associates:** Alishanda
-- **Rivals:** Oligarch Mehmen Saravani believes Cyrdak is a useless, dissolute fop.
+- **Rivals:** Oligarch [[Mehmen Saravani]] believes Cyrdak is a useless, dissolute fop.
 
 ## Appearances
 
