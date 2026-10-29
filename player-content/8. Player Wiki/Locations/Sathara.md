@@ -138,3 +138,5 @@ Monuments, civic buildings, fortifications, ruins, public spaces, and other dist
 - [[The Drop]]: public dumping ground
 - [[The Cleaver's Isle]]: tidal island
 - [[The Sea Light]]: ruined tower of uncertain age and provenance
+
+![[SatharaGlam.png]]
