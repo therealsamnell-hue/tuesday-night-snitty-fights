@@ -2,6 +2,7 @@
 title: Tuesday Night Snitty Fights
 publish: true
 ---
+![[Sathara Highharvestide.png]]
 
 # Welcome to Tuesday Night Snitty Fights
 
