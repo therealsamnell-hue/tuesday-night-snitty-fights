@@ -1,17 +1,16 @@
 ---
-publish: true
+publish: false
 tags:
   - NPC
 aliases:
-  - "Vashan"
-ancestry: "Tashalan"
-occupation: "Shopkeeper"
-location: "Sathara"
+  - Vashan
+ancestry: Tashalan
+occupation: Shopkeeper
+location: Sathara
 affiliations:
   - "[[Vinder's Emporium]]"
-status: "active"
-thumbnail: "z_Images/Vashan Vinder.png"
-
+status: active
+thumbnail: z_Images/Vashan Vinder.png
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
