@@ -46,7 +46,7 @@ Their game secured, the hunting party aims to return to Sathara where they can f
 
 ## Loot & Rewards
 
-A lot of dead wild pig.
+A lot of dead wild pig. Tasty.
 
 ## Notes & Open Threads
 
