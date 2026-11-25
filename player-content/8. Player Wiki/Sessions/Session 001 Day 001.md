@@ -23,7 +23,7 @@ tags:
 ## Summary
 Luneta and Chonks, separated since events in Cauldron, reunite at the Highharvestide festival in Sathara. Silon, a Sathara native, and Talamvor, from Ulgarth, are also present.
 
-During the festival, Chonks participates in a sausage eating contest. He is victorious. Silon attempts to guess the item inside a mystery box as part of a different game. She fails but is hit on by [[Cyrdak Daryuk]], proprietor of the [[The Sathara Ostentorium|Sathara Ostentorium]]
+During the festival, Chonks participates in a sausage eating contest. He is victorious. Silon attempts to guess the item inside a mystery box as part of a different game. She fails but is hit on by [[Cyrdak Daryuk]], proprietor of the [[The Sathara Ostentorium|Sathara Ostentorium]].
 
 In the evening, all four are present outside [[The Hall of Bright Coin]] for speeches by [[First Kandara Deyarin]], who roasts workaholic tanner [[Laris Ravashki]] for taking enough time off work to show up. She also announces that [[Oligarch Skouloun Kaskar]], who was to give a speech, has taken suddenly ill and cannot attend. The Oligarch rather notoriously dislikes festivities so his "sickness" surprises no one. [[Thanadar Bahram Daryush]] then takes the stage to soberly advise caution about the night's bonfires, which rather kills the mood until Cyrdak gives a comical rendition of how Sathara raised money to build its new temple to Waukeen that ends with the news that tonight, and tonight only, he has secured Magnimaran diva [[Alishanda yr Jasmal el Mostana yi Calimport]] to perform The Harpy's Curse.
 
