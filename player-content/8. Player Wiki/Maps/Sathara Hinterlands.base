@@ -1,0 +1,14 @@
+views:
+  - type: leaflet-map
+    name: View
+    filters:
+      and:
+        - file.folder.contains("Hinterlands Pins")
+    order:
+      - file.path
+    image: z_Images/Sathara Hinterlands Edit for Tashalar.png
+    mapName: hinterlands
+    defaultZoom: 0
+    minZoom: -13
+    height: 800
+    unit: px
