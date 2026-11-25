@@ -6,13 +6,13 @@ aliases:
   - Aseir
 ancestry: Calishite
 occupation: Oligarch
-location: 
-  - "[[Sathara]]"
+location:
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
   - "[[Magnimar]]"
   - "[[Pashar Manse]]"
 affiliations: []
 status: active
-thumbnail: "z_Images/Aseir yn Faruk el Pashar.png"
+thumbnail: z_Images/Aseir yn Faruk el Pashar.png
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">

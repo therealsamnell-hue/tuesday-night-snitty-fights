@@ -3,17 +3,16 @@ publish: true
 tags:
   - NPC
 aliases:
-  - "Auvendra"
-ancestry: "Nimbralese"
-occupation: "Innkeeper, former adventurer, musician"
+  - Auvendra
+ancestry: Nimbralese
+occupation: Innkeeper, former adventurer, musician
 location:
-  - "[[Sathara]]"
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
   - "[[The Rusty Dragon]]"
 affiliations:
   - "[[The Rusty Dragon]]"
-status: "active"
-thumbnail: "z_Images/Auvendra Kaskar.png"
-
+status: active
+thumbnail: z_Images/Auvendra Kaskar.png
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -29,7 +28,7 @@ thumbnail: "z_Images/Auvendra Kaskar.png"
 > [!infobox]
 > **Ancestry:** Nimbralese
 > **Occupation:** Innkeeper, former adventurer, musician
-> **Location:** [[Sathara]], [[The Rusty Dragon]]
+> **Location:** [[8. Player Wiki/Maps/Hinterlands Pins/Sathara]], [[The Rusty Dragon]]
 > **Affiliations:** [[The Rusty Dragon]]
 
 </div>

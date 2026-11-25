@@ -8,11 +8,11 @@ ancestry: Tashalan
 occupation: Thanadar
 location: Sathara
 affiliations:
-  - "[[Sathara]]"
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
   - Council of Oligarchs
   - Sathara Guard
 status: active
-thumbnail: "z_Images/Thanadar Bahram Daryush.png"
+thumbnail: z_Images/Thanadar Bahram Daryush.png
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">

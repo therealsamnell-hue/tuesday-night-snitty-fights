@@ -8,7 +8,7 @@ ancestry: Illuskan
 occupation: Turnskull and gravewarden
 location:
   - "[[The Quiet Exchange]]"
-  - "[[Sathara]]"
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
 affiliations:
   - "[[The House of Bright Coin]]"
   - "[[The Quiet Exchange]]"
@@ -30,7 +30,7 @@ thumbnail: z_Images/Nerik Voss.png
 > [!infobox]
 > **Ancestry:** Illuskan
 > **Occupation:** Turnskull and gravewarden
-> **Location:** [[The Quiet Exchange]], [[Sathara]]
+> **Location:** [[The Quiet Exchange]], [[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]
 > **Affiliations:** [[The House of Bright Coin]], [[The Quiet Exchange]], [[Church of Lathander]]
 
 </div>

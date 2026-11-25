@@ -3,15 +3,15 @@ publish: true
 tags:
   - NPC
 aliases:
-  - "First"
-ancestry: "Calishite"
-occupation: "First Oligarch of Sathara"
-location: "Sathara"
-affiliations: 
-  - "[[Sathara]]"
-  - "Council of Oligarchs"
+  - First
+ancestry: Calishite
+occupation: First Oligarch of Sathara
+location: Sathara
+affiliations:
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
+  - Council of Oligarchs
 status: active
-thumbnail: "z_Images/First Kandara Deyarin.png"
+thumbnail: z_Images/First Kandara Deyarin.png
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">

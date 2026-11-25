@@ -8,7 +8,7 @@ ancestry: Nimbralese
 occupation: Oligarch
 location:
   - "[[Sathara Glassworks]]"
-  - "[[Sathara]]"
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
   - "[[Kaskar Manor]]"
 affiliations:
   - "[[House Kaskar]]"
@@ -30,7 +30,7 @@ thumbnail: z_Images/Skouloun Kaskar.png
 > [!infobox]
 > **Ancestry:** Nimbralese
 > **Occupation:** Oligarch
-> **Location:** [[Sathara Glassworks]], [[Sathara]], [[Kaskar Manor]]
+> **Location:** [[Sathara Glassworks]], [[8. Player Wiki/Maps/Hinterlands Pins/Sathara]], [[Kaskar Manor]]
 > **Affiliations:** [[House Kaskar]], Council of Oligarchs
 
 </div>

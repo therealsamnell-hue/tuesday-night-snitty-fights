@@ -4,14 +4,14 @@ tags:
   - NPC
 aliases:
   - Cyrdak
-ancestry: "Calishite"
-occupation: "Theater owner"
-location: 
-  - "[[Sathara]]"
+ancestry: Calishite
+occupation: Theater owner
+location:
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
   - "[[The Sathara Ostentorium]]"
 affiliations: "[[The Sathara Ostentorium]]"
 status: active
-thumbnail: "z_Images/Cyrdak Daryuk.png"
+thumbnail: z_Images/Cyrdak Daryuk.png
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">

@@ -8,7 +8,7 @@ ancestry: Tashalan
 occupation: Priest of Waukeen
 location:
   - "[[The Hall of Bright Coin]]"
-  - "[[Sathara]]"
+  - "[[8. Player Wiki/Maps/Hinterlands Pins/Sathara]]"
 affiliations:
   - "[[Church of Waukeen]]"
   - "[[Hall of Bright Coin]]"
