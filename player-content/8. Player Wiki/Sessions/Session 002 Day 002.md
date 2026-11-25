@@ -24,7 +24,7 @@ tags:
 
 Having helped save Sathara from the goblin attack, Luneta, Chonks, Tallamvor, and Silon are heroes. The first to thank them is [[Aseir yn Faruk el Pashar]], an oligarch visiting from Magnimar. He praises their martial skill, particularly Luneta's, and promises them that he will better express his gratitude when he's had time to recover from his mostly superficial injuries. He'll be in Sathara for at least a few more days, staying at [[The Rusty Dragon]]. As he departs, Silon warns him to watch his drinks.
 
-In the morning, Luneta receives a formal missive from Aseir. It praises her skill at archery and inviting her and her companions to join him on a boar hunt in the nearby [[Tickwood]]. He promises their every comfort will be seen to. It's simply a matter of calling at the Rusty Dragon to come along.
+In the morning, Luneta receives a formal missive from Aseir. It praises her skill at archery and inviting her and her companions to join him on a boar hunt in the nearby [[The Tickwood|Tickwood]]. He promises their every comfort will be seen to. It's simply a matter of calling at the Rusty Dragon to come along.
 
 The party agree to go hunting, with Luneta very eager to show off. As they approach the Rusty Dragon, [[Auvendra Kaskar]] spots them and rushes out to give them free drinks in thanks for their work saving the town. Chonks chats her up, inquiring about her interest in furries. Auvendra responds affirmatively and as they speak, he and Luneta spot [[Shalene Vinder]] watching Chonks from afar. She seems very interested in him.
 
